@@ -1,3 +1,5 @@
+
+base64encode(<<-EOF
       #!/bin/bash
       # Update and install required packages
       dnf update -y
